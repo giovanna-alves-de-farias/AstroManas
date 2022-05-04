@@ -1,5 +1,3 @@
-![alt text](Imagens/logo-removebg-preview.png)
-
 # AstroManas
 
 Site informativo sobre mulheres na astronomia 
@@ -26,4 +24,9 @@ Site informativo sobre mulheres na astronomia
 - Utilizar o comando abaixo para executar o programa:
 
 dotnet run
+
+## Logotipo do Site
+
+![alt text](Imagens/logo-removebg-preview.png)
+
 
