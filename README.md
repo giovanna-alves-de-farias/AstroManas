@@ -1,4 +1,4 @@
-![alt text](logo-removebg-preview-removebg-preview.jpg)
+![alt text](Imagens/logo-removebg-preview.png)
 
 # AstroManas
 
