@@ -22,10 +22,10 @@ Site informativo sobre mulheres na astronomia
 
 ## Desenvolvedoras
 
-- https://github.com/camis-jesus-siqueira "Camila de Jesus Siquiera"
-- https://github.com/Dianaaraujosilva "Diana Araújo da Silva"
-- https://github.com/giovanna-alves-de-farias "Giovanna Alves de Farias"
-- https://github.com/IsabelaCruzSilva "Isabela Cruz Silva"
+- [Camila de Jesus Siquiera](https://github.com/camis-jesus-siqueira)
+- [Diana Araújo da Silva](https://github.com/Dianaaraujosilva)
+- [Giovanna Alves de Farias](https://github.com/giovanna-alves-de-farias)
+- [Isabela Cruz Silva](https://github.com/IsabelaCruzSilva)
 
 ## Logotipo do Site
 
