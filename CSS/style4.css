@@ -1,0 +1,10 @@
+body{
+    background-image: url(../Imagens/Texto-Mulheres-na-Astronomia.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    margin: auto;
+    display: block;
+}

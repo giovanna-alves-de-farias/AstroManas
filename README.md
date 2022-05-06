@@ -14,16 +14,11 @@ Site informativo sobre mulheres na astronomia
 
 ## Tecnologia Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- .NET 6.0
+- HTML, CSS, JavaScript e .NET 6.0
 
 ## Uso
 
-- Utilizar o comando abaixo para executar o programa:
-
-dotnet run
+- Utilizar o comando "dotnet run" para executar o programa
 
 ## Logotipo do Site
 

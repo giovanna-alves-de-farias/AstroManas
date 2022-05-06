@@ -1,0 +1,10 @@
+body{
+    background-image: url(../Imagens/abstract-1105851.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
