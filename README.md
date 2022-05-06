@@ -20,6 +20,13 @@ Site informativo sobre mulheres na astronomia
 
 - Utilizar o comando "dotnet run" para executar o programa
 
+## Desenvolvedoras
+
+- https://github.com/camis-jesus-siqueira "Camila de Jesus Siquiera"
+- https://github.com/Dianaaraujosilva "Diana Araújo da Silva"
+- https://github.com/giovanna-alves-de-farias "Giovanna Alves de Farias"
+- https://github.com/IsabelaCruzSilva "Isabela Cruz Silva"
+
 ## Logotipo do Site
 
 ![alt text](Imagens/logo-removebg-preview.png)
