@@ -22,6 +22,7 @@ Site informativo sobre mulheres na astronomia
 
 ## Desenvolvedoras
 
+- [Ana Carolina de Freitas Neves](https://github.com/AnaFreitasNeves)
 - [Camila de Jesus Siquiera](https://github.com/camis-jesus-siqueira)
 - [Diana Araújo da Silva](https://github.com/Dianaaraujosilva)
 - [Giovanna Alves de Farias](https://github.com/giovanna-alves-de-farias)
