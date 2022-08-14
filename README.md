@@ -10,7 +10,7 @@ Site informativo sobre mulheres na astronomia
 
 ## Idioma do Site
 
-- Português Brasileiro
+- PT-BR
 
 ## Tecnologia Utilizadas
 
