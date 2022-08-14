@@ -18,7 +18,7 @@ Site informativo sobre mulheres na astronomia
 
 ## Uso
 
-- Utilizar o comando "dotnet run" para executar o programa
+- link do site
 
 ## Desenvolvedoras
 
