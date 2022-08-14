@@ -29,6 +29,8 @@ Site informativo sobre mulheres na astronomia
 
 ## Logotipo do Site
 
+- Observação: usar o tema escuro no seu navegador 
+
 ![alt text](Imagens/logo-removebg-preview.png)
 
 
