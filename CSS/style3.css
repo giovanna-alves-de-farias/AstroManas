@@ -7,6 +7,9 @@ body{
 img{
     margin: auto;
     display: block;
+    float:left;
+    height: 8%;
+    width: 12%;
 }
 
 section{display: flex; align-items: center;}
