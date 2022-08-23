@@ -8,3 +8,176 @@ img{
     margin: auto;
     display: block;
 }
+
+section{display: flex; align-items: center;}
+    
+.btn{
+    width: 230px; 
+    height: 100px;  
+    margin-right: 20px; 
+    margin-left: 20px; 
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#btn1{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn1:hover{
+    background-color:yellow;
+}
+
+#btn2{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn2:hover{
+    background-color:yellow;
+}
+
+#btn3{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn3:hover{
+    background-color:yellow;
+}
+
+#btn4{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn4:hover{
+    background-color:yellow;
+}
+
+#btn5{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn5:hover{
+    background-color:yellow;
+}
+
+#btn6{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn6:hover{
+    background-color:yellow;
+}
+
+#btn7{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn7:hover{
+    background-color:yellow;
+}
+
+#btn8{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn8:hover{
+    background-color:yellow;
+}
+
+#btn9{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn9:hover{
+    background-color:yellow;
+}
+
+#btn10{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn10:hover{
+    background-color:yellow;
+}
+
+#btn11{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn11:hover{
+    background-color:yellow;
+}
+
+#btn12{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn12:hover{
+    background-color:yellow;
+}
+
+#btn13{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn13:hover{
+    background-color:yellow;
+}
+
+#btn14{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn14:hover{
+    background-color:yellow;
+}
+
+#btn15{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn15:hover{
+    background-color:yellow;
+}
+
+#btn16{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn16:hover{
+    background-color:yellow;
+}
+
+#btn17{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn17:hover{
+    background-color:yellow;
+}
+
+#btn18{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn18:hover{
+    background-color:yellow;
+}
+
+#btn19{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn19:hover{
+    background-color:yellow;
+}
+
+#btn20{
+    background-color: yellowgreen;
+    transition: background-color 1s;
+}
+#btn20:hover{
+    background-color:yellow;
+}
+
+span{display: none;}
