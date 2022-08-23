@@ -5,6 +5,10 @@ body{
 }
 
 img {
-    margin: auto;
-    display: block;
+    display:inline-block; font-size:20px; 
+    text-align:center; font-weight:bold; 
+}
+
+.img{
+    text-align: center;
 }
