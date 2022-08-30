@@ -1,5 +1,5 @@
 body{
-    background-image: url(../Imagens/abstract-1105851.jpg);
+    background-image: url(../Imagens/Fundo-Estrelado-Escuro.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -18,169 +18,230 @@ section{display: flex; align-items: center;}
     width: 230px; 
     height: 100px;  
     margin-right: 20px; 
-    margin-left: 20px; 
+    margin-left: 18px; 
     border: none;
     border-radius: 20px;
     cursor: pointer;
 }
+
 #btn1{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn1:hover{
-    background-color:yellow;
+    background: #ff9900 url(../Imagens/En-Hedu-Anna.png) no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn2{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn2:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn3{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn3:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn4{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn4:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn5{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn5:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn6{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn6:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn7{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn7:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn8{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn8:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn9{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn9:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn10{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn10:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn11{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn11:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn12{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn12:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn13{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn13:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn14{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn14:hover{
-    background-color:yellow;
+    background: #ff9900 url(.) no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn15{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn15:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn16{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn16:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn17{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn17:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn18{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn18:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn19{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn19:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 #btn20{
-    background-color: yellowgreen;
+    background-color: #7B68EE;
     transition: background-color 1s;
+    font-size: 22px;
+    font-family: 'Trebuchet MS';
 }
 #btn20:hover{
-    background-color:yellow;
+    background: #ff9900 url() no-repeat 10px center;
+    cursor: pointer;
 }
 
 span{display: none;}
