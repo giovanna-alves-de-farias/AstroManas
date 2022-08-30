@@ -1,10 +1,15 @@
 body{
-    background-image: url(../Imagens/abstract-1105851.jpg);
+    background-image: url(../Imagens/Fundo-Estrelado-Escuro.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-img{
-    margin: auto;
-    display: block;
+img {
+    display:inline-block; font-size:20px; 
+    text-align:center; font-weight:bold; 
 }
+
+.img{
+    text-align: center;
+}
+
