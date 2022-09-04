@@ -33,6 +33,7 @@ section{display: flex; align-items: center;}
 #btn1:hover{
     background: #ff9900 url(../Imagens/En-Hedu-Anna.png) no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn2{
@@ -44,6 +45,7 @@ section{display: flex; align-items: center;}
 #btn2:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn3{
@@ -55,6 +57,7 @@ section{display: flex; align-items: center;}
 #btn3:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn4{
@@ -66,6 +69,7 @@ section{display: flex; align-items: center;}
 #btn4:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn5{
@@ -77,6 +81,7 @@ section{display: flex; align-items: center;}
 #btn5:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn6{
@@ -88,6 +93,7 @@ section{display: flex; align-items: center;}
 #btn6:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn7{
@@ -99,6 +105,7 @@ section{display: flex; align-items: center;}
 #btn7:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn8{
@@ -110,6 +117,7 @@ section{display: flex; align-items: center;}
 #btn8:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn9{
@@ -121,6 +129,7 @@ section{display: flex; align-items: center;}
 #btn9:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn10{
@@ -132,6 +141,7 @@ section{display: flex; align-items: center;}
 #btn10:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn11{
@@ -143,6 +153,7 @@ section{display: flex; align-items: center;}
 #btn11:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn12{
@@ -154,6 +165,7 @@ section{display: flex; align-items: center;}
 #btn12:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn13{
@@ -165,6 +177,7 @@ section{display: flex; align-items: center;}
 #btn13:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn14{
@@ -176,6 +189,7 @@ section{display: flex; align-items: center;}
 #btn14:hover{
     background: #ff9900 url(.) no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn15{
@@ -187,6 +201,7 @@ section{display: flex; align-items: center;}
 #btn15:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn16{
@@ -198,6 +213,7 @@ section{display: flex; align-items: center;}
 #btn16:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn17{
@@ -209,6 +225,7 @@ section{display: flex; align-items: center;}
 #btn17:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn18{
@@ -218,8 +235,9 @@ section{display: flex; align-items: center;}
     font-family: 'Trebuchet MS';
 }
 #btn18:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: hsl(36, 100%, 50%) url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn19{
@@ -231,6 +249,7 @@ section{display: flex; align-items: center;}
 #btn19:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn20{
@@ -242,6 +261,7 @@ section{display: flex; align-items: center;}
 #btn20:hover{
     background: #ff9900 url() no-repeat 10px center;
     cursor: pointer;
+    box-shadow: 14px 13px 16px 8px black;
 }
 
 span{display: none;}
