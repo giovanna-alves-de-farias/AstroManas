@@ -5,11 +5,25 @@ body{
 }
 
 img {
-    display:inline-block; font-size:20px; 
-    text-align:center; font-weight:bold; 
+    display:inline-block; 
+    text-align:center; 
+    font-weight:bold; 
 }
 
 .img{
     text-align: center;
 }
 
+.tt-copy
+{
+line-height: 40px;
+color: #fff;
+background: #51658d;
+padding: 4px 0;
+font-size:15px;
+font-family: 'Trebuchet MS';
+}
+
+.tt-copy-center {
+    text-align: left;
+    }

@@ -8,15 +8,15 @@ img{
     margin: auto;
     display: block;
     float:left;
-    height: 8%;
-    width: 12%;
+    height: 9%;
+    width: 7%;
 }
 
 section{display: flex; align-items: center;}
     
 .btn{
     width: 230px; 
-    height: 100px;  
+    height: 50px;  
     margin-right: 20px; 
     margin-left: 18px; 
     border: none;
@@ -27,7 +27,7 @@ section{display: flex; align-items: center;}
 #btn1{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn1:hover{
@@ -39,7 +39,7 @@ section{display: flex; align-items: center;}
 #btn2{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn2:hover{
@@ -51,7 +51,7 @@ section{display: flex; align-items: center;}
 #btn3{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn3:hover{
@@ -63,7 +63,7 @@ section{display: flex; align-items: center;}
 #btn4{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn4:hover{
@@ -75,7 +75,7 @@ section{display: flex; align-items: center;}
 #btn5{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn5:hover{
@@ -87,7 +87,7 @@ section{display: flex; align-items: center;}
 #btn6{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn6:hover{
@@ -99,7 +99,7 @@ section{display: flex; align-items: center;}
 #btn7{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn7:hover{
@@ -111,7 +111,7 @@ section{display: flex; align-items: center;}
 #btn8{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn8:hover{
@@ -123,7 +123,7 @@ section{display: flex; align-items: center;}
 #btn9{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn9:hover{
@@ -135,7 +135,7 @@ section{display: flex; align-items: center;}
 #btn10{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn10:hover{
@@ -147,7 +147,7 @@ section{display: flex; align-items: center;}
 #btn11{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn11:hover{
@@ -159,7 +159,7 @@ section{display: flex; align-items: center;}
 #btn12{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn12:hover{
@@ -171,7 +171,7 @@ section{display: flex; align-items: center;}
 #btn13{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn13:hover{
@@ -183,7 +183,7 @@ section{display: flex; align-items: center;}
 #btn14{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn14:hover{
@@ -195,7 +195,7 @@ section{display: flex; align-items: center;}
 #btn15{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn15:hover{
@@ -207,7 +207,7 @@ section{display: flex; align-items: center;}
 #btn16{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn16:hover{
@@ -219,7 +219,7 @@ section{display: flex; align-items: center;}
 #btn17{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn17:hover{
@@ -231,7 +231,7 @@ section{display: flex; align-items: center;}
 #btn18{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn18:hover{
@@ -243,7 +243,7 @@ section{display: flex; align-items: center;}
 #btn19{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn19:hover{
@@ -255,7 +255,7 @@ section{display: flex; align-items: center;}
 #btn20{
     background-color: #7B68EE;
     transition: background-color 1s;
-    font-size: 22px;
+    font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn20:hover{
@@ -265,3 +265,17 @@ section{display: flex; align-items: center;}
 }
 
 span{display: none;}
+
+.tt-copy
+{
+line-height: 40px;
+color: #fff;
+background: #51658d;
+padding: 4px 0;
+font-size:15px;
+font-family: 'Trebuchet MS';
+}
+
+.tt-copy-center {
+    text-align: left;
+    }
