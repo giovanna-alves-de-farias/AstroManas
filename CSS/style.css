@@ -15,14 +15,14 @@ img {
 
 .tt-copy
 {
-font-size: 70px;
-line-height: 20px;
+line-height: 40px;
 color: #fff;
 background: #51658d;
-padding: 80px 0;
-font-size: 50px;
+padding: 55px 0;
+font-size:70px;
 font-family: 'Trebuchet MS';
 }
-.tt-copy-right {
-text-align: right;
-}
+
+.tt-copy-center {
+    text-align: left;
+    }
