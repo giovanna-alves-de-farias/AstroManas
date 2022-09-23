@@ -2,6 +2,15 @@ body{
     background-image: url(../Imagens/abstract-1105851.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: #FFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baskerville', sans-serif;
+    font-size: 2.0rem;
 }
 
 img {
@@ -13,16 +22,14 @@ img {
     text-align: center;
 }
 
-.tt-copy
-{
-line-height: 40px;
-color: #fff;
-background: #51658d;
-padding: 55px 0;
-font-size:70px;
-font-family: 'Trebuchet MS';
+#centro{
+    height: 400px;
+    color: #FF4500;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#F4A460;
 }
 
-.tt-copy-center {
-    text-align: left;
-    }
+.centro {
+    text-align: center;
+    
+}

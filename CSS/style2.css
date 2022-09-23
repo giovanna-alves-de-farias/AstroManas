@@ -2,6 +2,7 @@ body{
     background-image: url(../Imagens/Fundo-Estrelado-Escuro.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: #fff;
 }
 
 img {
@@ -14,16 +15,19 @@ img {
     text-align: center;
 }
 
-.tt-copy
-{
-line-height: 40px;
-color: #fff;
-background: #51658d;
-padding: 4px 0;
-font-size:15px;
-font-family: 'Trebuchet MS';
+#centro{
+    height: 100px;
 }
 
-.tt-copy-center {
-    text-align: left;
-    }
+.centro {
+    text-align: center;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+}
