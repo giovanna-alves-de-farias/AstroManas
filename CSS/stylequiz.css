@@ -30,7 +30,7 @@ section {
     width: 100%;
     margin: 0 auto;
     padding: 1rem;
-    margin-bottom: 0.625rem;
+    margin-bottom: 0.605rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,6 +62,7 @@ h1 {
 
 #pergunta {
     margin-left: 1rem;
+    font-size: 30px;
 }
 
 /* article que acomoda a questao completa */
@@ -95,7 +96,7 @@ h1 {
 #instrucoes {
     background: #ccc;
     color: #191919;
-    padding: 0.625rem;
+    padding: 0.610rem;
     border-radius: 8px;
 
     display: flex;
@@ -147,4 +148,11 @@ img{
     float:left;
     height: 9%;
     width: 7%;
+}
+
+.centro {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    color: #fff;
 }

@@ -32,7 +32,7 @@ const q0 = {
 
 const q1 = {
     numQuestao   : 1,
-    pergunta     : "Boreal é o mesmo que...",
+    pergunta     : "Boreal é o mesmo que nós doi juntos e misturados",
     alternativaA : "Sul",
     alternativaB : "Leste",
     alternativaC : "Norte",
