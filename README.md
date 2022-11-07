@@ -4,21 +4,26 @@ Site informativo sobre mulheres na astronomia
 
 ## Funcionalidades
 
-- Contará com dados como: a história dessas mulheres como elas marcaram o campo da astronomia.
-- Trará informações sobre novas propostas de incentivo a introdução feminina nesse meio, além de dicas de filmes e leituras. 
+- Contará com dados como: a história dessas mulheres como elas marcaram o campo da astronomia;
+- Trará informações sobre novas propostas de incentivo a introdução feminina nesse meio, além de dicas de filmes e leituras;
 - Também terá um quiz sobre os conteúdos do site, a fim de testar os conhecimentos dos usuários.
 
 ## Idioma do Site
 
-- PT-BR
+- Português Brasil (PT-BR)
 
 ## Tecnologia Utilizadas
 
-- HTML, CSS, JavaScript e .NET 6.0
+- HTML;
+- CSS; 
+- JavaScript;
+- .NET 6.0;
+- Protocolo HTTPS;
+- VS Code.
 
 ## Uso
 
-- link do site
+- Para utilizar o site, acesse o seguinte link:
 
 ## Desenvolvedoras
 
@@ -33,5 +38,3 @@ Site informativo sobre mulheres na astronomia
 - Observação: usar o tema escuro no seu navegador 
 
 ![alt text](Imagens/logo-removebg-preview.png)
-
-
