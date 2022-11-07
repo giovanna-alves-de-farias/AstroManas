@@ -266,16 +266,9 @@ section{display: flex; align-items: center;}
 
 span{display: none;}
 
-.tt-copy
-{
-line-height: 40px;
-color: #fff;
-background: #51658d;
-padding: 4px 0;
-font-size:15px;
-font-family: 'Trebuchet MS';
+.centro {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    color: #fff;
 }
-
-.tt-copy-center {
-    text-align: left;
-    }
