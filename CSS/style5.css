@@ -1,5 +1,5 @@
 body{
-    background-image: url();
+    background-image: url(../Imagens/Telas_de_Fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,16 +8,23 @@ section{display: flex; align-items: center;}
 
 span{display: none;}
 
-.tt-copy
-{
-font-size: 70px;
-line-height: 20px;
-color: #fff;
-background: #51658d;
-padding: 90px 0;
-font-size: 60px;
-font-family: 'Trebuchet MS';
+h1{
+    text-align: center;
+    font-size: 150px;
 }
-.tt-copy-right {
-text-align: right;
+
+p{
+    text-align: left;
+    font-size: 70px;
+}
+
+#img_Cecilia {
+    width: 1000px;
+    height: 300px;
+}
+
+#img_circular {
+    border-radius: 50px;
+    margin:500px;
+    display:inline-block;
 }
