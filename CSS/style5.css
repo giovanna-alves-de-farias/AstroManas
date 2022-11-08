@@ -9,13 +9,17 @@ section{display: flex; align-items: center;}
 span{display: none;}
 
 h1{
+    color:black;
+    font-family: 'Trebuchet MS';
     text-align: center;
-    font-size: 150px;
+    font-size: 140px;
 }
 
 p{
-    text-align: left;
     font-size: 70px;
+    font-family: 'Trebuchet MS';
+    text-align: left;
+    color:black;  
 }
 
 #img_Cecilia {

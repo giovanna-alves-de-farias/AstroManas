@@ -24,242 +24,248 @@ section{display: flex; align-items: center;}
     cursor: pointer;
 }
 
+/*
+LARANJA: #ff9900
+
+ROXO: #7B68EE;
+*/
+
 #btn1{
-    background-color: #7B68EE;
+    background-color: #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn1:hover{
-    background: #ff9900 url(../Imagens/En-Hedu-Anna.png) no-repeat 10px center;
+    background: #7B68EE url(../Imagens/En-Hedu-Anna.png) no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn2{
-    background-color: #7B68EE;
+    background-color: #ff9900; 
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn2:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn3{
-    background-color: #7B68EE;
+    background-color: #ff9900 ;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn3:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn4{
-    background-color: #7B68EE;
+    background-color: #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn4:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn5{
-    background-color: #7B68EE;
+    background-color: #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn5:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn6{
-    background-color: #7B68EE;
+    background-color: #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn6:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn7{
-    background-color: #7B68EE;
+    background-color: #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn7:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn8{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn8:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn9{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn9:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn10{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn10:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn11{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn11:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn12{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn12:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn13{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn13:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn14{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn14:hover{
-    background: #ff9900 url(.) no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn15{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn15:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn16{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn16:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn17{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn17:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn18{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn18:hover{
-    background: hsl(36, 100%, 50%) url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn19{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn19:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
 
 #btn20{
-    background-color: #7B68EE;
+    background-color:  #ff9900;
     transition: background-color 1s;
     font-size: 18px;
     font-family: 'Trebuchet MS';
 }
 #btn20:hover{
-    background: #ff9900 url() no-repeat 10px center;
+    background: #7B68EE url() no-repeat 10px center;
     cursor: pointer;
     box-shadow: 14px 13px 16px 8px black;
 }
