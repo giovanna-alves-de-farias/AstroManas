@@ -32,3 +32,15 @@ p{
     margin:500px;
     display:inline-block;
 }
+
+#centro{
+    height: 100px;
+}
+
+.centro {
+    text-align: center;
+    font-size: 110px;
+    font-family: 'Trebuchet MS';
+    color: #fff;
+    
+}
