@@ -32,47 +32,47 @@ const q0 = {
 
 const q1 = {
     numQuestao   : 1,
-    pergunta     : "Boreal é o mesmo que nós doi juntos e misturados",
-    alternativaA : "Sul",
-    alternativaB : "Leste",
-    alternativaC : "Norte",
-    correta      : "Norte",
+    pergunta     : "Foi ela quem descobriu que as estrelas eram compostas por gases leves como Hidrogênio e Hélio. Quem é ela?",
+    alternativaA : "Mae Jemison",
+    alternativaB : "Mary Jackson",
+    alternativaC : "Cecilia Payne Gaposchkin",
+    correta      : "Cecilia Payne Gaposchkin",
 }
 
 const q2 = {
     numQuestao   : 2,
-    pergunta     : "Austral é o mesmo que...",
-    alternativaA : "Oeste",
-    alternativaB : "Sul",
-    alternativaC : "Norte",
-    correta      : "Sul",
+    pergunta     : "Ela ficou conhecida como Mãe do Telescópio Espacial Hubble? Quem é ela?",
+    alternativaA : "Annie Jump Cannon",
+    alternativaB : "Nancy Grace Roman",
+    alternativaC : "Hipácia",
+    correta      : "Nancy Grace Roman",
 }
 
 const q3 = {
     numQuestao   : 3,
-    pergunta     : "Nascente é o mesmo que...",
-    alternativaA : "Sul",
-    alternativaB : "Leste",
-    alternativaC : "Oeste",
-    correta      : "Leste",
+    pergunta     : "Katie Bouman ficou conhecida por qual descoberta?",
+    alternativaA : "O primeiro foguete a ser lançado no espaço",
+    alternativaB : "A primeira imagem real de um buraco negro",
+    alternativaC : "O primeiro telescópio",
+    correta      : "A primeira imagem real de um buraco negro",
 }
 
 const q4 = {
     numQuestao   : 4,
-    pergunta     : "Poente é o mesmo que...",
-    alternativaA : "Norte",
+    pergunta     : "Qual dessas mulheres é uma astrônoma brasileira?",
+    alternativaA : "Wang Zhenyn",
     alternativaB : "Leste",
-    alternativaC : "Oeste",
-    correta      : "Oeste",
+    alternativaC : "Beatriz Barbuy",
+    correta      : "Beatriz Barbuy",
 }
 
 const q5 = {
     numQuestao   : 5,
-    pergunta     : "O Brasil se localiza em qual continente?",
+    pergunta     : "Qual dessas mulheres foram um dos primeiros nomes a fazer história na astronomia?",
     alternativaA : "África",
     alternativaB : "Europa",
-    alternativaC : "América",
-    correta      : "América",
+    alternativaC : "En-Hedu-Anna",
+    correta      : "En-Hedu-Anna",
 }
 
 // CONSTANTE COM UM ARRAY DE OBJETOS COM TODAS AS QUESTOES
