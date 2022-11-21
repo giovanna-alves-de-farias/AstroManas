@@ -294,16 +294,10 @@ span{display: none;}
     margin-left: 80px; 
 }
 
-.Estrela1{
-    float:left;
-    height: 30%;
-    width: 350%;
-    margin-left: 80px; 
-}
-
-.Estrela2{
-    float:right;
-    height: 30%;
-    width: 350%;
+.box2{
+    width: 300%; 
+    height: 100%;  
+    text-align: center;
     margin-right: 80px; 
+    margin-left: 530px; 
 }
