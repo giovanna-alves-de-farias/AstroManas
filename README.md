@@ -1,6 +1,6 @@
 # AstroManas
 
-Site informativo sobre mulheres na astronomia 
+Site informativo sobre mulheres na astronomia.
 
 ## Funcionalidades
 
@@ -19,7 +19,7 @@ Site informativo sobre mulheres na astronomia
 - JavaScript;
 - .NET 6.0;
 - Protocolo HTTPS;
-- VS Code.
+- Plataforma de desenvolvimento VS Code.
 
 ## Uso
 
