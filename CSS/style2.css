@@ -1,7 +1,7 @@
 body{
-    background-image: url(../Imagens/Fundo-Estrelado-Escuro.jp);
+    background-image: url(../Imagens/Fundo-Estrelado-Escuro.jpg);
     background-repeat: no-repeat;
-    background-size: 3px 20px;
+    background-size: 2000px 2000px;
     color: #fff;
 }
 
@@ -32,5 +32,5 @@ img {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.25rem;
+    font-size: 2.0rem;
 }
