@@ -1,0 +1,39 @@
+body{
+    background-image: url(../Imagens/Tela_de_Fundo_5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    margin: auto;
+    display: block;
+    float:left;
+    height: 9%;
+    width: 7%;
+}
+
+#centro{
+    height: 100px;
+}
+
+.centro {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    color: #fff;
+    
+}
+
+.box1{ 
+    color:#fff;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    font-size: 16px;
+}
+
+p{
+    text-align: center;
+    font-size: 28px;
+    color:black;
+    font-family: 'Trebuchet MS';
+}

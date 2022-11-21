@@ -61,7 +61,7 @@ const q4 = {
     numQuestao   : 4,
     pergunta     : "Qual dessas mulheres é uma astrônoma brasileira?",
     alternativaA : "Wang Zhenyn",
-    alternativaB : "Leste",
+    alternativaB : "Cecilia-Payne-Gaposch",
     alternativaC : "Beatriz Barbuy",
     correta      : "Beatriz Barbuy",
 }
@@ -69,8 +69,8 @@ const q4 = {
 const q5 = {
     numQuestao   : 5,
     pergunta     : "Qual dessas mulheres foram um dos primeiros nomes a fazer história na astronomia?",
-    alternativaA : "África",
-    alternativaB : "Europa",
+    alternativaA : "Dorothy-Vaughan",
+    alternativaB : "Heloisa-Boechart-Roberty",
     alternativaC : "En-Hedu-Anna",
     correta      : "En-Hedu-Anna",
 }
