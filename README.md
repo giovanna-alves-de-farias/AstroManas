@@ -25,6 +25,8 @@ Site informativo sobre mulheres na astronomia
 
 - Para utilizar o site, acesse o seguinte link:
 
+[https://giovanna-alves-de-farias.github.io/AstroManas/](https://giovanna-alves-de-farias.github.io/AstroManas/)
+
 ## Desenvolvedoras
 
 - [Ana Carolina de Freitas Neves](https://github.com/AnaFreitasNeves)
